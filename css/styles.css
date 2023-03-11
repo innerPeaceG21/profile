@@ -1,0 +1,18 @@
+html{
+    font-family: IBM Plex Mono;
+}
+.ko{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.photo{
+    width: 20rem;
+
+
+}
+.laka{
+width: 60rem;
+}
+
